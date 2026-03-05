@@ -42,4 +42,4 @@ Hopefully the first of many. Will revisit Unity and build more games when time a
 ---
 
 ## 🔗 Play it on itch.io
-*Coming soon*
+[*Coming soon*](https://quratulain-nayeeme.itch.io/tilepalace)
